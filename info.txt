@@ -3,3 +3,5 @@ merging changes
 commiting changes
 pushing changes
 pull and push request
+addictional details 
+hike and more things
